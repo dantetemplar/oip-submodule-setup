@@ -2,3 +2,4 @@
 	path = Open-Industry-Project
 	url = https://github.com/dantetemplar/fork-Open-Industry-Project.git
 	branch = master
+	shallow = true

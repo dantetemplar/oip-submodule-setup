@@ -1,6 +1,6 @@
 Clone that repository https://github.com/promoblako/oip-setup with submodules, lfs, and symlinks:
 ```
-git clone --recurse-submodules https://github.com/promoblako/oip-setup.git
+git clone https://github.com/promoblako/oip-setup.git --recurse --shallow-submodules
 cd oip-setup
 git submodule update --init --recursive
 git lfs pull
