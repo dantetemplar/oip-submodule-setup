@@ -11,4 +11,3 @@ Download prepared godot binary for [Windows here](https://github.com/Open-Indust
 Run binary `./godot.linuxbsd.editor.x86_64 --editor --path .` to open editor in current directory.
 
 Note that you should not edit Open-Industry-Project project folder unless you want to contribute to the project. Make all changes in `promoblako` folder, you could inherence nodes from Open-Industry-Project folder (they all are mapped to `assets`, `parts`, `src` res folders via symlinkins). Also in future we should replace ours git submodule to upstream Open-Industry-Project repository.
-
